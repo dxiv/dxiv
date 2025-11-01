@@ -6,11 +6,11 @@ def __info__(self):
     self.bio = '''
         I am passionate about cybersecurity and IT in general.
         I mainly program in Java.
-        Dev of the well known W4SP Stealer (lots of skids out there claiming its theres)'''
+        Dev of Blood Club (vampire & gothic web shop)'''
     self.age = ('undefined')
 
 def  __social__(self):
-    self.thm = "https://slat.cc/dx"
+    self.thm = "https://feds.lol/dx"
     self.htb = "https://luna-scripts.com"
     self.dsc = ".dxm#0000"
 
