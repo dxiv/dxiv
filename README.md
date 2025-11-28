@@ -36,7 +36,7 @@ Crafting dark, elegant, high-performance digital ecosystems.
 ---
 
 ## 🧩 Architecture & Systems Work
-- Architecting clinical workflows using OnBase Workflow & WorkView  
+- Architecting clinical workflows using OnBase Workflow  
 - Integrating multi-system healthcare environments  
 - Designing scalable infrastructure + automated deployment patterns  
 - Building modular digital ecosystems with maintainable structure  
@@ -46,13 +46,24 @@ Crafting dark, elegant, high-performance digital ecosystems.
 
 ## 📦 Featured Projects
 
-<a href="https://github.com/dx-7/bloodclub-ui">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dx-7&repo=bloodclub-ui&theme=tokyonight&hide_border=true&cache_seconds=60" />
-</a>
-
-<a href="https://github.com/dx-7/devlab-scripts">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dx-7&repo=devlab-scripts&theme=tokyonight&hide_border=true&cache_seconds=60" />
-</a>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/dx-7/bloodclub-ui">
+        <img src="https://img.shields.io/badge/bloodclub--ui-%231E1E2E?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0f16" />
+      </a>
+      <br/>
+      <sub>Modular front-end architecture for blood.club</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dx-7/devlab-scripts">
+        <img src="https://img.shields.io/badge/devlab--scripts-%231E1E2E?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0f16" />
+      </a>
+      <br/>
+      <sub>Automation & tooling for systems analysis</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
