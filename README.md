@@ -115,8 +115,6 @@ I build modular, scalable digital ecosystems — from healthcare infrastructure 
 - **Discord:** `.dxm`
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=dx-7&style=flat&color=red" />
-  &nbsp;&nbsp;
   <img src="https://img.shields.io/github/last-commit/dx-7/dx-7?label=Last%20Updated&color=red" />
 </p>
 
