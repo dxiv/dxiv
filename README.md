@@ -54,7 +54,6 @@ Crafting gothic, high-performance digital experiences.
   <br>
 
   ![Metrics](https://metrics.lecoq.io/dx-7?template=terminal&config.timezone=Europe%2FLondon)
-
 </details>
 
 ---
