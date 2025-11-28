@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?duration=4500&pause=1000&color=ff0000&center=false&vCenter=false&width=650&lines=DX+—+Systems+Analyst;Founder+%26+Lead+Dev+—+blood.club;Cybersecurity+%7C+Gothic+Software+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?duration=7000&pause=2000&color=ff0000&center=false&vCenter=false&width=720&lines=DX+—+Systems+Analyst%2FArchitect;Founder+%26+Lead+Dev+—+blood.club;Cybersecurity+%7C+Gothic+Software+Builder;Designing+dark%2C+elegant+systems)](https://git.io/typing-svg)
 
-**Systems Analyst • Full-stack Dev • Founder of [blood.club](https://blood.club)**  
+**Systems Analyst/Architect • Full-stack Dev • Founder of [blood.club](https://blood.club)**  
 Crafting gothic, high-performance digital experiences.
 
 ---
@@ -10,7 +10,7 @@ Crafting gothic, high-performance digital experiences.
 ---
 
 ## 🩸 About Me
-- Systems Analyst specialising in enterprise healthcare systems
+- Systems Analyst/Architect specialising in enterprise healthcare systems
 - Founder & Lead Developer of **Blood Club** — gothic apparel & digital brand  
 - Security-oriented builder focused on automation and clean architecture  
 - Coding in **Java, JavaScript, and modern web stacks**
