@@ -99,10 +99,10 @@ I build modular, scalable digital ecosystems — from healthcare infrastructure 
 # **Stats & Metrics**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dxiv&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dxiv&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&rank_icon=github" />
   <img src="https://streak-stats.demolab.com?user=dxiv&theme=tokyonight&hide_border=true" />
-  <p align="center">
 </p>
+
 
 ---
 
