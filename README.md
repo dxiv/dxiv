@@ -32,7 +32,7 @@ Crafting dark, elegant, high-performance digital ecosystems.
 
 ---
 
-## 🧰 Tooling
+## 🧰 Development Environment
 <p>
   <img src="https://skillicons.dev/icons?i=docker,linux,git,github,cloudflare,nginx,idea,vscode,postman" />
 </p>
@@ -71,7 +71,7 @@ Crafting dark, elegant, high-performance digital ecosystems.
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Core Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,nodejs,php,py,mysql,postgres" />
 </p>
