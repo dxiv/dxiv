@@ -38,11 +38,11 @@ Crafting gothic, high-performance digital experiences.
 ---
 
 ## 🧩 Architecture & Systems Work
-- Architecting clinical workflows using OnBase Workflow + WorkView  
-- Integrating EMIS + multi-system healthcare environments  
+- Architecting clinical workflows using OnBase Workflow  
+- Integrating multi-system healthcare environments  
 - Automating deployments and designing scalable infrastructure patterns  
 - Building modular, maintainable digital ecosystems  
-- Reducing technical debt through structured redesign and optimisation  
+- Reducing technical debt through structured redesign and optimisation via powershell scripting
 
 ---
 
@@ -55,8 +55,6 @@ Crafting gothic, high-performance digital experiences.
 <a href="https://github.com/dx-7/devlab-scripts">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dx-7&repo=devlab-scripts&theme=tokyonight&hide_border=true" />
 </a>
-
-> If the repos don’t exist yet, create empty ones — they’ll still render perfectly.
 
 ---
 
