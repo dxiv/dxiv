@@ -48,19 +48,100 @@ My work blends structured engineering with a darker, elegant design identity —
 
 ## 📦 Featured Projects
 
-<div align="center" style="display:flex; gap:12px; justify-content:center;">
+<table align="center" width="100%" style="border-collapse:collapse; table-layout:fixed;">
+  <tr>
 
-  <a href="https://github.com/dx-7/bloodclub-ui" style="flex:1; min-width:300px; max-width:420px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dx-7&repo=bloodclub-ui&theme=tokyonight&hide_border=true"
-         style="width:100%; height:160px; object-fit:cover;" />
-  </a>
+    <!-- Project 1 -->
+    <td
+      align="center"
+      style="
+        padding:20px;
+        background:#0f0f16;
+        border:1px solid #1b1b22;
+        border-radius:8px;
+        width:50%;
+        vertical-align:top;
+      "
+    >
+      <a href="https://github.com/dx-7/bloodclub-ui" style="text-decoration:none;">
+        <img
+          src="https://img.shields.io/badge/bloodclub--ui-%231E1E2E?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0f16"
+          style="margin-bottom:8px;"
+        />
+      </a>
 
-  <a href="https://github.com/dx-7/devlab-scripts" style="flex:1; min-width:300px; max-width:420px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dx-7&repo=devlab-scripts&theme=tokyonight&hide_border=true"
-         style="width:100%; height:160px; object-fit:cover;" />
-  </a>
+      <div
+        style="
+          color:#c5c5d4;
+          font-size:13px;
+          line-height:1.4;
+          min-height:42px;
+          margin-top:6px;
+        "
+      >
+        Modular front-end architecture for blood.club
+      </div>
 
-</div>
+      <div
+        style="
+          margin-top:12px;
+          font-size:12px;
+          color:#ff2a2a;
+          letter-spacing:0.5px;
+        "
+      >
+        <strong>JavaScript • Modular UI • Cloudflare</strong>
+      </div>
+    </td>
+
+    <!-- Spacer -->
+    <td width="20px"></td>
+
+    <!-- Project 2 -->
+    <td
+      align="center"
+      style="
+        padding:20px;
+        background:#0f0f16;
+        border:1px solid #1b1b22;
+        border-radius:8px;
+        width:50%;
+        vertical-align:top;
+      "
+    >
+      <a href="https://github.com/dx-7/devlab-scripts" style="text-decoration:none;">
+        <img
+          src="https://img.shields.io/badge/devlab--scripts-%231E1E2E?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0f16"
+          style="margin-bottom:8px;"
+        />
+      </a>
+
+      <div
+        style="
+          color:#c5c5d4;
+          font-size:13px;
+          line-height:1.4;
+          min-height:42px;
+          margin-top:6px;
+        "
+      >
+        Automation & tooling for systems engineering
+      </div>
+
+      <div
+        style="
+          margin-top:12px;
+          font-size:12px;
+          color:#ff2a2a;
+          letter-spacing:0.5px;
+        "
+      >
+        <strong>Python • Automation • Infrastructure</strong>
+      </div>
+    </td>
+
+  </tr>
+</table>
 
 ---
 
