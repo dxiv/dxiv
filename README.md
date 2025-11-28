@@ -1,11 +1,7 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dx-7/dx-7/main/assets/dx-banner.png" alt="DX — blood.club" />
-</p>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?duration=9000&pause=2500&color=ff0000&center=false&vCenter=false&width=820&lines=DX+—+Systems+Analyst%2FArchitect;Founder+%26+Lead+Dev+—+blood.club;Cybersecurity+%7C+Automation+%7C+Architecture;Building+dark%2C+elegant+digital+systems)](https://git.io/typing-svg)
 
 **Systems Analyst/Architect • Full-stack Developer • Founder of [blood.club](https://blood.club)**  
-Crafting dark, elegant, high-performance digital ecosystems.
+Focused on automation, architecture, and building dark, elegant digital ecosystems.
 
 ---
 
@@ -13,38 +9,44 @@ Crafting dark, elegant, high-performance digital ecosystems.
 
 ---
 
-<p align="center">⚫ ⚫ ⚫</p>
-
-## ⚡ What I Do
-- Architect scalable, resilient technical systems  
-- Repair and redesign inefficient workflows end-to-end  
-- Develop modular full-stack solutions with clean structure  
-- Automate and optimise enterprise environments  
-- Lead gothic-focused software + brand development  
-
----
-
-## 🩸 About Me
-- Systems Analyst/Architect in enterprise healthcare systems  
-- Founder & Lead Developer of **Blood Club**, a gothic digital brand  
-- Security-driven builder focused on automation and clean architecture  
-- Working mainly with **Java**, **JavaScript**, and modern web stacks  
-
----
-
-## 🧰 Development Environment
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,cloudflare,nginx,idea,vscode,postman" />
+<p align="center">  
+  <img src="https://raw.githubusercontent.com/dx-7/dx-7/main/assets/divider.svg" width="65%" />  
 </p>
 
+## 🩸 About Me
+I design and architect efficient digital systems across healthcare environments and modern web ecosystems.  
+My work blends clean technical structure with a darker design identity — high-performance builds, modular architecture, and automation-driven workflows.
+
+- Enterprise Healthcare Systems Analyst/Architect  
+- Founder & Lead Developer of **Blood Club**  
+- Advocate for structured engineering, workflow automation, and secure deployments  
+- Strong focus on system design, integration, and long-term maintainability  
+
 ---
 
-## 🧩 Architecture & Systems Work
-- Architecting clinical workflows using OnBase Workflow & WorkView  
-- Integrating multi-system healthcare environments  
-- Designing scalable infrastructure + automated deployment patterns  
-- Building modular digital ecosystems with maintainable structure  
-- Reducing technical debt through targeted refactoring + automation  
+## 🧩 Architecture & Systems Engineering
+- Designing scalable, resilient workflow architectures  
+- Integrating complex multi-system healthcare environments  
+- Building modular digital ecosystems with clean, maintainable structures  
+- Automating deployments, environment rebuilds, and repetitive backend tasks  
+- Reducing technical debt via targeted refactoring + tooling  
+- Developing full-stack solutions end-to-end with a focus on performance  
+
+---
+
+## 🏆 Highlights
+- Architected a multi-trust clinical referral pathway enabling secure 2-way communication into the EPR  
+- Delivered modular UI architecture powering **blood.club**’s digital presence  
+- Automated key support workflows through custom scripting (PowerShell, Git-driven tooling)  
+- Improved performance + reliability across several healthcare critical systems  
+- Acted as SME for workflow integrations and infrastructure components  
+
+---
+
+## ⚙️ Tools & Tech
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,cloudflare,idea,vscode,html,css,js,ts,nodejs,py,java,php,mysql" />
+</p>
 
 ---
 
@@ -64,24 +66,18 @@ Crafting dark, elegant, high-performance digital ecosystems.
         <img src="https://img.shields.io/badge/devlab--scripts-%231E1E2E?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0f16" />
       </a>
       <br/>
-      <sub>Automation & tooling for systems analysis</sub>
+      <sub>Automation & tooling for systems engineering</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Core Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,nodejs,php,py,mysql,postgres" />
-</p>
-
----
-
-## 🛠️ Current Focus
-- Scaling the Blood Club digital ecosystem + infrastructure  
-- Modular architecture + performance-driven UI development  
-- Advanced backend + security engineering work  
+## 📡 Now Building
+- Expanding the Blood Club modular UI ecosystem  
+- Developing advanced automation scripts for infra + workflow tooling  
+- Backend performance improvements + security hardening  
+- Enhancing scalable architecture patterns  
 
 ---
 
@@ -95,14 +91,6 @@ Crafting dark, elegant, high-performance digital ecosystems.
 ## 📊 Stats & Metrics
 
 ![DX's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dx-7&show_icons=true&theme=tokyonight&hide_border=true)
-
-<details>
-  <summary>🧪 Terminal-style metrics</summary>
-
-  <br>
-
-  ![Metrics](https://metrics.lecoq.io/dx-7?template=terminal&config.timezone=Europe%2FLondon)
-</details>
 
 ---
 
