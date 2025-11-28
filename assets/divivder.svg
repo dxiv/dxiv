@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1" viewBox="0 0 800 1">
+  <line x1="0" y1="0.5" x2="800" y2="0.5"
+        stroke="#b1060f"
+        stroke-width="0.6"
+        stroke-linecap="round"
+        opacity="0.8" />
+</svg>
