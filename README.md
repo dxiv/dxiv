@@ -42,7 +42,7 @@ I build modular, scalable digital ecosystems — from healthcare infrastructure 
 - Architected a **multi-trust clinical referral workflow** with secure 2-way EPR communication  
 - Delivered the modular UI architecture powering **blood.club**  
 - Automated operational workflows (PowerShell + GitOps)  
-- Improved performance + stability across NHS digital systems  
+- Improved performance + stability across digital systems  
 - SME for workflow, integrations, automation patterns  
 
 ---
