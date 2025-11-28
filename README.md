@@ -11,7 +11,7 @@ Crafting gothic, high-performance digital experiences.
 ---
 
 ## 🩸 About Me
-- Systems Analyst specialising in enterprise healthcare systems (OnBase, EMIS, ICCA, etc.)
+- Systems Analyst specialising in enterprise healthcare systems
 - Founder & Lead Developer of **Blood Club** — gothic apparel & digital brand  
 - Security-oriented builder focused on automation and clean architecture  
 - Coding in **Java, JavaScript, and modern web stacks**
