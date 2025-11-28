@@ -52,9 +52,7 @@ Crafting gothic, high-performance digital experiences.
 ![DX's GitHub stats](https://github-readme-stats.vercel.app/api?username=dx-7&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Metrics](https://metrics.lecoq.io/dx-7?template=terminal&config.timezone=Europe%2FLondon)
-
 ---
-
 <!---
 dx-7/dx-7 is a special repository because its `README.md` appears on your GitHub profile.
 --->
