@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?duration=9000&pause=2500&color=ff0000&center=false&vCenter=false&width=820&lines=DX+—+Systems+Analyst%2FArchitect;Founder+%26+Lead+Dev+—+blood.club;Cybersecurity+%7C+Automation+%7C+Architecture;Building+dark%2C+elegant+digital+systems)](https://git.io/typing-svg)
 
-**Systems Analyst/Architect • Full-stack Dev • Founder of [blood.club](https://blood.club)**  
-Crafting gothic, high-performance digital experiences.
+**Systems Analyst/Architect • Full-stack Developer • Founder of [blood.club](https://blood.club)**  
+Crafting dark, elegant, high-performance digital ecosystems.
 
 ---
 
@@ -9,24 +9,22 @@ Crafting gothic, high-performance digital experiences.
 
 ---
 
-<p align="center">  
-  ⚫⚫⚫  
-</p>
+<p align="center">⚫ ⚫ ⚫</p>
 
 ## ⚡ What I Do
-- Design and architect scalable technical systems  
-- Fix broken workflows and rebuild them cleanly  
-- Develop full-stack digital solutions end-to-end  
-- Build, automate, and optimise enterprise-grade environments  
-- Lead gothic-focused digital branding and web experiences  
+- Architect scalable, resilient technical systems  
+- Repair and redesign inefficient workflows end-to-end  
+- Develop modular full-stack solutions with clean structure  
+- Automate and optimise enterprise environments  
+- Lead gothic-focused software + brand development  
 
 ---
 
 ## 🩸 About Me
-- Systems Analyst/Architect specialising in enterprise healthcare systems  
-- Founder & Lead Developer of **Blood Club** — gothic apparel & digital brand  
-- Security-focused builder obsessed with automation and clean architecture  
-- Coding primarily in **Java, JavaScript, and modern web stacks**
+- Systems Analyst/Architect in enterprise healthcare systems  
+- Founder & Lead Developer of **Blood Club**, a gothic digital brand  
+- Security-driven builder focused on automation and clean architecture  
+- Working mainly with **Java**, **JavaScript**, and modern web stacks  
 
 ---
 
@@ -38,11 +36,11 @@ Crafting gothic, high-performance digital experiences.
 ---
 
 ## 🧩 Architecture & Systems Work
-- Architecting clinical workflows using OnBase Workflow  
-- Integrating multi-system healthcare environments  
-- Automating deployments and designing scalable infrastructure patterns  
-- Building modular, maintainable digital ecosystems  
-- Reducing technical debt through structured redesign and optimisation via powershell scripting
+- Architecting clinical workflows using OnBase Workflow & WorkView  
+- Integrating multi-system healthcare environments (EMIS, ICCA, OnBase)  
+- Designing scalable infrastructure + automated deployment patterns  
+- Building modular digital ecosystems with maintainable structure  
+- Reducing technical debt through targeted refactoring + automation  
 
 ---
 
@@ -66,9 +64,9 @@ Crafting gothic, high-performance digital experiences.
 ---
 
 ## 🛠️ Current Focus
-- Scaling the Blood Club digital ecosystem  
-- Modular architecture, performance optimisation, automated deployments  
-- Deepening backend + security engineering work  
+- Scaling the Blood Club digital ecosystem + infrastructure  
+- Modular architecture + performance-driven UI development  
+- Advanced backend + security engineering work  
 
 ---
 
