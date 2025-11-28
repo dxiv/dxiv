@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?duration=7000&pause=2000&color=ff0000&center=false&vCenter=false&width=720&lines=DX+—+Systems+Analyst%2FArchitect;Founder+%26+Lead+Dev+—+blood.club;Cybersecurity+%7C+Gothic+Software+Builder;Designing+dark%2C+elegant+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?duration=9000&pause=2500&color=ff0000&center=false&vCenter=false&width=820&lines=DX+—+Systems+Analyst%2FArchitect;Founder+%26+Lead+Dev+—+blood.club;Cybersecurity+%7C+Automation+%7C+Architecture;Building+dark%2C+elegant+digital+systems)](https://git.io/typing-svg)
 
 **Systems Analyst/Architect • Full-stack Dev • Founder of [blood.club](https://blood.club)**  
 Crafting gothic, high-performance digital experiences.
@@ -9,11 +9,54 @@ Crafting gothic, high-performance digital experiences.
 
 ---
 
+<p align="center">  
+  ⚫⚫⚫  
+</p>
+
+## ⚡ What I Do
+- Design and architect scalable technical systems  
+- Fix broken workflows and rebuild them cleanly  
+- Develop full-stack digital solutions end-to-end  
+- Build, automate, and optimise enterprise-grade environments  
+- Lead gothic-focused digital branding and web experiences  
+
+---
+
 ## 🩸 About Me
-- Systems Analyst/Architect specialising in enterprise healthcare systems
+- Systems Analyst/Architect specialising in enterprise healthcare systems  
 - Founder & Lead Developer of **Blood Club** — gothic apparel & digital brand  
-- Security-oriented builder focused on automation and clean architecture  
-- Coding in **Java, JavaScript, and modern web stacks**
+- Security-focused builder obsessed with automation and clean architecture  
+- Coding primarily in **Java, JavaScript, and modern web stacks**
+
+---
+
+## 🧰 Tooling
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,cloudflare,nginx,idea,vscode,postman" />
+</p>
+
+---
+
+## 🧩 Architecture & Systems Work
+- Architecting clinical workflows using OnBase Workflow + WorkView  
+- Integrating EMIS + multi-system healthcare environments  
+- Automating deployments and designing scalable infrastructure patterns  
+- Building modular, maintainable digital ecosystems  
+- Reducing technical debt through structured redesign and optimisation  
+
+---
+
+## 📦 Featured Projects
+
+<a href="https://github.com/dx-7/bloodclub-ui">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dx-7&repo=bloodclub-ui&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/dx-7/devlab-scripts">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dx-7&repo=devlab-scripts&theme=tokyonight&hide_border=true" />
+</a>
+
+> If the repos don’t exist yet, create empty ones — they’ll still render perfectly.
 
 ---
 
@@ -27,7 +70,7 @@ Crafting gothic, high-performance digital experiences.
 ## 🛠️ Current Focus
 - Scaling the Blood Club digital ecosystem  
 - Modular architecture, performance optimisation, automated deployments  
-- Moving deeper into backend + security tooling
+- Deepening backend + security engineering work  
 
 ---
 
@@ -49,6 +92,12 @@ Crafting gothic, high-performance digital experiences.
 
   ![Metrics](https://metrics.lecoq.io/dx-7?template=terminal&config.timezone=Europe%2FLondon)
 </details>
+
+---
+
+## 🖤 Contact
+For technical, collaboration, or Blood Club enquiries:  
+**contact@blood.club**
 
 ---
 
