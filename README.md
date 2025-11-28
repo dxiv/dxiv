@@ -20,7 +20,7 @@ SME for multiple enterprise clinical systems with hands-on experience across ser
 
 I build clean, reliable solutions using PowerShell, SFTP, and structured automation — removing manual overhead and making complex systems behave. Founder of **blood.club**, where I apply the same engineering discipline to modern full-stack development.
 
-Professional memberships: **MBCS**, **Advanced RITTech**, **FEDIP Senior Practitioner**.
+Professional memberships: **MBCS**, **Advanced RITTech**, **FEDIP Senior Practitioner**, **CITP (in progress)**.
 
 Outside of work, I spend my time gaming, learning full-stack development, and building anything I can automate.
 
