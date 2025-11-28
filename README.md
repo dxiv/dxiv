@@ -73,7 +73,7 @@ Crafting dark, elegant, high-performance digital ecosystems.
 
 ## 🚀 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,php,py,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,nodejs,php,py,mysql,postgres" />
 </p>
 
 ---
