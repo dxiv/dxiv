@@ -1,5 +1,6 @@
 ┌──(DX㉿root)-[~/devlab] └─$ cat DX.py
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=DX+|+blood.club;Second+line+of+text)](https://git.io/typing-svg)
 class DX:
 
 def __info__(self):
@@ -22,8 +23,6 @@ def __dev__(self):
         "php": "learning..."
     }
 ┌──(DX㉿root)-[~/devlab] └─$
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <!---
 dx-7/dx-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
