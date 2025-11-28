@@ -1,30 +1,41 @@
-┌──(DX㉿root)-[~/devlab] └─$ cat DX.py
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=DX+—+Systems+Analyst;Founder+%26+Lead+Dev+—+blood.club;Cybersecurity+%7C+Gothic+Software+Builder)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=DX+|+Systems+Analyst;Founder+and+Lead+Dev+|+blood.club)](https://git.io/typing-svg)
-class DX:
+# DX
+**Systems Analyst • Full-stack Dev • Founder of [blood.club](https://blood.club)**  
+Building dark, elegant software and digital experiences.
 
-def __info__(self):
-    self.bio = '''
-        I am passionate about cybersecurity and IT in general.
-        I mainly program in Java.
-        Dev of Blood Club (vampire & gothic web shop)'''
-    self.age = ('undefined')
+---
 
-def  __social__(self):
-    self.thm = "https://feds.lol/dx"
-    self.htb = "https://luna-scripts.com"
-    self.dsc = ".dxm#0000"
+## 🩸 About Me
+- Systems Analyst working with enterprise healthcare systems
+- Founder & Lead Developer of **Blood Club** — gothic apparel & digital brand  
+- Cybersecurity-minded and obsessed with infrastructure, automation, and clean builds
+- Currently coding mostly in **Java, JS, and modern web stacks**
 
-def __dev__(self):
-    self.skills = {
-        "java": "well known",
-        "javascript": "well known",
-        "html": "known",
-        "php": "learning..."
-    }
-┌──(DX㉿root)-[~/devlab] └─$
+---
+
+## 🚀 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,php,py,git,github,vscode,linux" />
+</p>
+
+---
+
+## 🛠️ Current Focus
+- Expanding the Blood Club digital ecosystem  
+- Improving scalability, modular web architecture, and automated deployments  
+- Next goal: more advanced backend work & security tooling
+
+---
+
+## 🔗 Socials
+- **Website:** https://blood.club  
+- **Hub:** https://feds.lol/dx  
+- **Discord:** `.dxm`  
+
+---
 
 <!---
-dx-7/dx-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+dx-7/dx-7 is a special repository because its `README.md`
+appears on your GitHub profile.
 --->
