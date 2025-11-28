@@ -103,7 +103,6 @@ I build modular, scalable digital ecosystems — from healthcare infrastructure 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dx-7&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://streak-stats.demolab.com?user=dx-7&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dx-7&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
