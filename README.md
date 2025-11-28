@@ -17,6 +17,7 @@
 
 Systems Analyst with 10+ years in healthcare IT, specialising in workflow automation, systems integration, and technical problem-solving.  
 SME for multiple enterprise clinical systems with hands-on experience across servers, infrastructure, and digital pathways.
+Experienced in managing clinical interfaces, resolving HL7 and XML-based workflow errors, and supporting complex data exchanges across healthcare systems.
 
 I build clean, reliable solutions using PowerShell, SFTP, and structured automation — removing manual overhead and making complex systems behave. Founder of **blood.club**, where I apply the same engineering discipline to modern full-stack development.
 
@@ -28,6 +29,7 @@ Outside of work, I spend my time gaming, learning full-stack development, and bu
 
 # **Architecture & Systems Engineering**
 
+- Monitoring and resolving HL7/XML interface errors across clinical systems
 - Workflow automation using PowerShell, SFTP, and CI-based tooling  
 - Designing scalable digital pathways across multi-system healthcare environments  
 - Supporting and optimising server & infrastructure components  
