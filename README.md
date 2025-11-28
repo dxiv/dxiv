@@ -50,10 +50,10 @@ My work blends structured engineering with a darker, elegant design identity —
 
 <p align="center">
   <a href="https://github.com/dx-7/bloodclub-ui">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=dx-7&repo=bloodclub-ui&theme=tokyonight&hide_border=true" />
+    <img height="130" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=dx-7&repo=bloodclub-ui&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/dx-7/devlab-scripts">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=dx-7&repo=devlab-scripts&theme=tokyonight&hide_border=true" />
+    <img height="130" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=dx-7&repo=devlab-scripts&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
