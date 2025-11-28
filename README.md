@@ -109,35 +109,28 @@ Simple rules. Scary effective.
 # **Stats & Metrics**
 
 <p align="center">
-
   <!-- Main Stats (Your Vercel Instance) -->
   <img
     src="https://dxiv.vercel.app/api?username=dxiv&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800"
     height="165"
-  />
-
+  >
   <!-- Streak Stats -->
   <img
     src="https://streak-stats.demolab.com?user=dxiv&theme=tokyonight&hide_border=true"
     height="165"
   />
-
 </p>
-
 <p align="center">
-
   <!-- Top Languages -->
   <img
     src="https://dxiv.vercel.app/api/top-langs/?username=dxiv&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
     height="165"
-  />
-
+  >
   <!-- Achievements (clean & useful) -->
   <img
     src="https://dxiv.vercel.app/api?username=dxiv&show=prs_merged,issues,reviews&theme=tokyonight&hide_border=true&cache_seconds=1800"
     height="165"
   />
-
 </p>
 
 ---
