@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=dx-7&color=red&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=dxiv&color=red&style=for-the-badge)
 ![Blood Club](https://img.shields.io/badge/Blood_Club-Founder-red?style=for-the-badge)
 
 </div>
@@ -60,14 +60,14 @@ I build modular, scalable digital ecosystems — from healthcare infrastructure 
 <table align="center">
 <tr>
 <td align="center">
-<a href="https://github.com/dx-7/bloodclub-ui">
+<a href="https://github.com/dxiv/bloodclub-ui">
 <img src="https://img.shields.io/badge/bloodclub--ui-%231E1E2E?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0f16" />
 </a>
 <br/><sub>Modular front-end architecture for blood.club</sub>
 </td>
 
 <td align="center">
-<a href="https://github.com/dx-7/devlab-scripts">
+<a href="https://github.com/dxiv/devlab-scripts">
 <img src="https://img.shields.io/badge/devlab--scripts-%231E1E2E?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0f16" />
 </a>
 <br/><sub>Automation & tooling for systems analysis</sub>
@@ -99,8 +99,8 @@ I build modular, scalable digital ecosystems — from healthcare infrastructure 
 # 📊 **Stats & Metrics**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dx-7&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=dx-7&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dxiv&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=dxiv&theme=tokyonight&hide_border=true" />
   <p align="center">
 </p>
 
@@ -113,7 +113,7 @@ I build modular, scalable digital ecosystems — from healthcare infrastructure 
 - **Discord:** `.dxm`
 
 <p align="left">
-  <img src="https://img.shields.io/github/last-commit/dx-7/dx-7?label=Last%20Updated&color=red" />
+  <img src="https://img.shields.io/github/last-commit/dxiv/dxiv?label=Last%20Updated&color=red" />
 </p>
 
 <p align="center" style="margin-top:-10px; margin-bottom:-10px;">
