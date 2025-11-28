@@ -5,7 +5,6 @@
 ![Stars](https://img.shields.io/github/stars/dx-7?style=for-the-badge&color=red)
 ![Profile Views](https://komarev.com/ghpvc/?username=dx-7&color=red&style=for-the-badge)
 ![Blood Club](https://img.shields.io/badge/Blood_Club-Founder-red?style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/Automation-CI%2FCD-red?style=for-the-badge&logo=githubactions)
 
 </div>
 
