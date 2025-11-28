@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=dxiv&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=dxiv&color=red&style=for-the-badge)
 ![Blood Club](https://img.shields.io/badge/Blood_Club-Founder-black?style=for-the-badge)
 
 </div>
