@@ -1,0 +1,34 @@
+name: activity-heartbeat
+
+on:
+  schedule:
+    # 4x per day at different times (UTC)
+    - cron: '5 1 * * *'   # 01:05
+    - cron: '5 10 * * *'  # 10:05
+    - cron: '5 11 * * *'  # 11:05
+    - cron: '5 20 * * *'  # 20:05
+  workflow_dispatch:
+
+jobs:
+  heartbeat:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Update dev diary
+        run: |
+          mkdir -p logs
+          {
+            echo "## $(date -u +"%Y-%m-%d")"
+            echo "- automated heartbeat at $(date -u +"%H:%M:%SZ") UTC"
+            echo
+          } >> logs/dev-diary.md
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update dev diary"
+          branch: main
+          file_pattern: logs/dev-diary.md
