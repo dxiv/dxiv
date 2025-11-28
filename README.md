@@ -51,10 +51,6 @@ Crafting gothic, high-performance digital experiences.
 
 ![DX's GitHub stats](https://github-readme-stats.vercel.app/api?username=dx-7&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dx-7&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dx-7&theme=redical&hide_border=true)
-
 ![Metrics](https://metrics.lecoq.io/dx-7?template=terminal&config.timezone=Europe%2FLondon)
 
 ---
