@@ -48,14 +48,19 @@ My work blends structured engineering with a darker, elegant design identity —
 
 ## 📦 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/dx-7/bloodclub-ui">
-    <img height="130" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=dx-7&repo=bloodclub-ui&theme=tokyonight&hide_border=true" />
+<div align="center" style="display:flex; gap:12px; justify-content:center;">
+
+  <a href="https://github.com/dx-7/bloodclub-ui" style="flex:1; min-width:300px; max-width:420px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dx-7&repo=bloodclub-ui&theme=tokyonight&hide_border=true"
+         style="width:100%; height:160px; object-fit:cover;" />
   </a>
-  <a href="https://github.com/dx-7/devlab-scripts">
-    <img height="130" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=dx-7&repo=devlab-scripts&theme=tokyonight&hide_border=true" />
+
+  <a href="https://github.com/dx-7/devlab-scripts" style="flex:1; min-width:300px; max-width:420px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dx-7&repo=devlab-scripts&theme=tokyonight&hide_border=true"
+         style="width:100%; height:160px; object-fit:cover;" />
   </a>
-</p>
+
+</div>
 
 ---
 
