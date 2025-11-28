@@ -15,7 +15,7 @@
 
 # 🩸 **About Me**
 
-Systems Analyst/Architect and full-stack developer blending enterprise engineering with a darker, elegant design identity.  
+Systems Analyst/Architect and aspiring full-stack developer blending enterprise engineering with a darker, elegant design identity.  
 I build modular, scalable digital ecosystems — from healthcare infrastructure to modern web platforms — with automation, structure, and maintainability at the core.
 
 - Systems Analyst/Architect (Healthcare + Infrastructure)  
