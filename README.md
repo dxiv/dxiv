@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dx-7/dx-7/main/assets/dx-banner.png" alt="DX — blood.club" />
+</p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?duration=9000&pause=2500&color=ff0000&center=false&vCenter=false&width=820&lines=DX+—+Systems+Analyst%2FArchitect;Founder+%26+Lead+Dev+—+blood.club;Cybersecurity+%7C+Automation+%7C+Architecture;Building+dark%2C+elegant+digital+systems)](https://git.io/typing-svg)
 
 **Systems Analyst/Architect • Full-stack Developer • Founder of [blood.club](https://blood.club)**  
@@ -36,7 +40,7 @@ Crafting dark, elegant, high-performance digital ecosystems.
 ---
 
 ## 🧩 Architecture & Systems Work
-- Architecting clinical workflows using OnBase Workflow  
+- Architecting clinical workflows using OnBase Workflow & WorkView  
 - Integrating multi-system healthcare environments  
 - Designing scalable infrastructure + automated deployment patterns  
 - Building modular digital ecosystems with maintainable structure  
