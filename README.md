@@ -110,8 +110,12 @@ Basically, more systems. Cleaner systems. Less noise.
 # **Stats & Metrics**
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dxiv&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=dxiv&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://dxiv.vercel.app/api?username=dxiv&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=dxiv&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
