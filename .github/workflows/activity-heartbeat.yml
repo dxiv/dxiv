@@ -9,6 +9,9 @@ on:
     - cron: '5 20 * * *'  # 20:05
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   heartbeat:
     runs-on: ubuntu-latest
