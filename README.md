@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?duration=9000&pause=2500&color=ff0000&center=false&vCenter=false&width=820&lines=DX+—+Systems+Analyst%2FArchitect;Founder+%26+Lead+Dev+—+blood.club;Cybersecurity+%7C+Automation+%7C+Architecture;Building+dark%2C+scalable+digital+ecosystems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?duration=9000&pause=2500&color=ff0000&center=false&vCenter=false&width=820&lines=DX+—+Systems+Analyst%2FArchitect;Founder+%26+Lead+Dev+—+blood.club;Automation+%7C+Architecture+%7C+Healthcare+IT)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -15,41 +15,35 @@
 
 # **About Me**
 
-Systems Analyst with 10+ years in healthcare IT, specialising in workflow automation, systems integration, and technical problem-solving.  
-SME for multiple enterprise clinical systems with hands-on experience across servers, infrastructure, and digital pathways.
-Experienced in managing clinical interfaces, resolving HL7 and XML-based workflow errors, and supporting complex data exchanges across healthcare systems.
-
-I build clean, reliable solutions using PowerShell, SFTP, and structured automation — removing manual overhead and making complex systems behave. Founder of **blood.club**, where I apply the same engineering discipline to modern full-stack development.
+Systems Analyst with 10+ years in healthcare IT, specialising in automation, clinical integrations, and technical problem-solving.  
+Experienced with HL7/XML interfaces, server operations, and high-reliability digital workflows.  
+Founder & Lead Dev of **blood.club**, applying structured engineering to modern full-stack builds.
 
 Professional memberships: **MBCS**, **Advanced RITTech**, **FEDIP Senior Practitioner**, **CITP (in progress)**.
 
-Outside of work, I spend my time gaming, learning full-stack development, and building anything I can automate.
-
 ---
 
-# **Architecture & Systems Engineering**
+# **Core Skills**
 
-- Monitoring and resolving HL7/XML interface errors across clinical systems
-- Workflow automation using PowerShell, SFTP, and CI-based tooling  
-- Designing scalable digital pathways across multi-system healthcare environments  
-- Supporting and optimising server & infrastructure components  
-- Integrating clinical systems with secure, fault-tolerant workflows  
-- Modular architecture design for maintainability and clarity  
-- Performance tuning, reliability improvements, and reduction of technical debt  
+- Workflow automation (PowerShell, SFTP, CI/CD)  
+- HL7/XML interface monitoring & resolution  
+- Multi-system clinical integrations  
+- Server & infrastructure operations  
+- Modular architecture & long-term maintainability  
+- Performance, reliability & security improvements  
 
 ---
 
 # **Highlighted Work**
 
-- Architected a **multi-trust clinical referral workflow** enabling secure 2-way communication with the EPR  
-- Acted as SME for enterprise healthcare systems, advising on performance, stability, and integration patterns  
-- Automated high-volume operational workflows across infrastructure and clinical applications  
-- Designed the modular UI & digital foundation powering **blood.club**  
-- Improved system reliability, resiliency, and operational efficiency across server and workflow layers  
+- Architected a **multi-trust referral workflow** with secure 2-way EPR communication  
+- SME for key clinical systems & infrastructure components  
+- Automated high-volume operational processes across healthcare environments  
+- Designed the modular UI & digital ecosystem behind **blood.club**  
 
 ---
 
-# **Tools, Languages & Tech**
+# **Tools & Tech**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,git,github,cloudflare,idea,vscode,html,css,js,ts,nodejs,py,java,php,mysql" />
@@ -65,7 +59,7 @@ Outside of work, I spend my time gaming, learning full-stack development, and bu
 <a href="https://github.com/dxiv/bloodclub-ui">
 <img src="https://img.shields.io/badge/bloodclub--ui-%231E1E2E?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0f16" />
 </a>
-<br/><sub>Modular front-end architecture for blood.club</sub>
+<br/><sub>Modular UI architecture for blood.club</sub>
 </td>
 
 <td align="center">
@@ -79,34 +73,13 @@ Outside of work, I spend my time gaming, learning full-stack development, and bu
 
 ---
 
-# **Engineering Principles**
-
-- Structure over chaos  
-- Automate whatever shouldn’t be manual  
-- Build for future maintainability  
-- Reliability as a baseline, not a bonus  
-- Security + clarity > clever shortcuts  
-
----
-
-# **Now Building**
-
-- Expanding Blood Club’s modular UI & backend  
-- Developing workflow automation tools for healthcare and infra  
-- Improving performance, resilience & security across systems  
-- Strengthening full-stack foundations and modern dev practices  
-
----
-
 # **Stats & Metrics**
 
 <p align="center">
-  <!-- Main Stats (Your Vercel Instance) -->
   <img
     src="https://dxiv.vercel.app/api?username=dxiv&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800"
     height="165"
   >
-  <!-- Streak Stats -->
   <img
     src="https://streak-stats.demolab.com?user=dxiv&theme=tokyonight&hide_border=true"
     height="165"
