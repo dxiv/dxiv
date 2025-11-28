@@ -13,7 +13,7 @@
 
 ---
 
-# 🩸 **About Me**
+# **About Me**
 
 Systems Analyst/Architect and aspiring full-stack developer blending enterprise engineering with a darker, elegant design identity.  
 I build modular, scalable digital ecosystems — from healthcare infrastructure to modern web platforms — with automation, structure, and maintainability at the core.
@@ -26,7 +26,7 @@ I build modular, scalable digital ecosystems — from healthcare infrastructure 
 
 ---
 
-# 🧩 **Architecture & Systems Engineering**
+# **Architecture & Systems Engineering**
 
 - Designing scalable, fault-tolerant workflows  
 - Integrating multi-system clinical environments  
@@ -37,7 +37,7 @@ I build modular, scalable digital ecosystems — from healthcare infrastructure 
 
 ---
 
-# 🏆 **Highlighted Work**
+# **Highlighted Work**
 
 - Architected a **multi-trust clinical referral workflow** with secure 2-way EPR communication  
 - Delivered the modular UI architecture powering **blood.club**  
@@ -47,7 +47,7 @@ I build modular, scalable digital ecosystems — from healthcare infrastructure 
 
 ---
 
-# ⚙️ **Tools, Languages & Tech**
+# **Tools, Languages & Tech**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,git,github,cloudflare,idea,vscode,html,css,js,ts,nodejs,py,java,php,mysql" />
@@ -55,7 +55,7 @@ I build modular, scalable digital ecosystems — from healthcare infrastructure 
 
 ---
 
-# 📦 **Featured Projects**
+# **Featured Projects**
 
 <table align="center">
 <tr>
@@ -77,7 +77,7 @@ I build modular, scalable digital ecosystems — from healthcare infrastructure 
 
 ---
 
-# 🧠 **Engineering Principles**
+# **Engineering Principles**
 
 - Structure > noise  
 - Automate the repeatable  
@@ -87,7 +87,7 @@ I build modular, scalable digital ecosystems — from healthcare infrastructure 
 
 ---
 
-# 📡 **Now Building**
+# **Now Building**
 
 - Expanding Blood Club’s modular UI + backend  
 - Strengthening infrastructure automation  
@@ -96,7 +96,7 @@ I build modular, scalable digital ecosystems — from healthcare infrastructure 
 
 ---
 
-# 📊 **Stats & Metrics**
+# **Stats & Metrics**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dxiv&show_icons=true&theme=tokyonight&hide_border=true" />
