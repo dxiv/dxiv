@@ -1,6 +1,6 @@
 ┌──(DX㉿root)-[~/devlab] └─$ cat DX.py
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=DX+|+blood.club;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=DX+|+blood.club;Founder+LeadDev+|+Systems+Analyst)](https://git.io/typing-svg)
 class DX:
 
 def __info__(self):
