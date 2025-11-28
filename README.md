@@ -1,10 +1,16 @@
-<div style="display: flex; align-items: center;">
-  <h1 style="margin: 0; padding: 0; font-size: 32px;">DX —&nbsp;</h1>
-  <img
-    src="https://readme-typing-svg.demolab.com?duration=4000&pause=800&color=ff0000&size=22&width=420&lines=Systems+Analyst;Founder+%26+Lead+Dev+—+blood.club;Cybersecurity+%7C+Gothic+Software+Builder"
-    alt="Typing roles"
-  />
-</div>
+<table>
+  <tr>
+    <td>
+      <h1>DX —</h1>
+    </td>
+    <td>
+      <img
+        src="https://readme-typing-svg.demolab.com?duration=4000&pause=800&color=ff0000&size=22&width=420&lines=Systems+Analyst;Founder+%26+Lead+Dev+—+blood.club;Cybersecurity+%7C+Gothic+Software+Builder"
+        alt="Typing roles"
+      />
+    </td>
+  </tr>
+</table>
 
 **Systems Analyst • Full-stack Dev • Founder of [blood.club](https://blood.club)**  
 Crafting gothic, high-performance digital experiences.
