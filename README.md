@@ -1,4 +1,10 @@
-# DX - [![Typing SVG](https://readme-typing-svg.demolab.com?duration=4500&pause=1000&color=ff0000&center=true&vCenter=true&width=600&lines=Systems+Analyst;Founder+%26+Lead+Dev+—+blood.club;Cybersecurity+%7C+Gothic+Software+Builder)](https://git.io/typing-svg)
+<h1 align="left">
+  DX —
+  <img
+    src="https://readme-typing-svg.demolab.com?duration=4000&pause=800&color=ff0000&size=22&width=420&lines=Systems+Analyst;Founder+%26+Lead+Dev+—+blood.club;Cybersecurity+%7C+Gothic+Software+Builder"
+    alt="Typing roles"
+  />
+</h1>
 **Systems Analyst • Full-stack Dev • Founder of [blood.club](https://blood.club)**  
 Crafting gothic, high-performance digital experiences.
 
