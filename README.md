@@ -47,11 +47,11 @@ Crafting dark, elegant, high-performance digital ecosystems.
 ## 📦 Featured Projects
 
 <a href="https://github.com/dx-7/bloodclub-ui">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dx-7&repo=bloodclub-ui&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dx-7&repo=bloodclub-ui&theme=tokyonight&hide_border=true&cache_seconds=60" />
 </a>
 
 <a href="https://github.com/dx-7/devlab-scripts">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dx-7&repo=devlab-scripts&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dx-7&repo=devlab-scripts&theme=tokyonight&hide_border=true&cache_seconds=60" />
 </a>
 
 ---
