@@ -1,9 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?duration=9000&pause=2500&color=ff0000&center=false&vCenter=false&width=820&lines=DX+—+Systems+Analyst%2FArchitect;Founder+%26+Lead+Dev+—+blood.club;Cybersecurity+%7C+Automation+%7C+Architecture;Building+dark%2C+scalable+digital+ecosystems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?duration=9000&pause=2500&color=ff0000&center=false&vCenter=false&width=820&lines=DXIV+—+Systems+Analyst%2FArchitect;Founder+%26+Lead+Dev+—+blood.club;Automation+%7C+Architecture+%7C+Engineering;Building+dark%2C+scalable+digital+ecosystems)](https://git.io/typing-svg)
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=dxiv&color=red&style=for-the-badge)
-![Blood Club](https://img.shields.io/badge/Blood_Club-Founder-black?style=for-the-badge)
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=dxiv&color=red&style=for-the-badge" />
+
+<!-- Blood Club Badge -->
+<img src="https://img.shields.io/badge/Blood_Club-Founder-black?style=for-the-badge" />
+
+<!-- Last Updated Badge -->
+<img src="https://img.shields.io/github/last-commit/dxiv/dxiv?label=Last%20Updated&color=red&style=for-the-badge" />
 
 </div>
 
@@ -15,42 +21,42 @@
 
 # **About Me**
 
-Systems Analyst/Architect and aspiring full-stack developer blending enterprise engineering with a darker, elegant design identity.  
-I build modular, scalable digital ecosystems — from healthcare infrastructure to modern web platforms — with automation, structure, and maintainability at the core.
+Systems Analyst/Architect designing modular, scalable digital ecosystems across healthcare and modern web platforms.  
+I build clean, structured systems shaped around automation, architecture-first thinking, and long-term maintainability.
 
 - Systems Analyst/Architect (Healthcare + Infrastructure)  
 - Founder & Lead Developer of **blood.club**  
 - Automation-focused engineer  
-- Architecture-first approach  
-- Security, performance, and reliability obsessed  
+- Security + reliability obsessed  
+- Clean architecture enjoyer  
 
 ---
 
 # **Architecture & Systems Engineering**
 
-- Designing scalable, fault-tolerant workflows  
+- Designing resilient, fault-tolerant workflows  
 - Integrating multi-system clinical environments  
-- Modular ecosystem design with long-term maintainability  
-- Automated deployments, rebuilds, CI workflows  
-- Refactoring for cleaner, faster operation  
-- Full-stack delivery with performance-first engineering  
+- Modular ecosystem architecture for long-term growth  
+- Automated deployments & CI/CD workflows  
+- Performance-first engineering + refactoring  
+- End-to-end full-stack delivery  
 
 ---
 
 # **Highlighted Work**
 
-- Architected a **multi-trust clinical referral workflow** with secure 2-way EPR communication  
+- Architected a **multi-trust clinical referral pathway** enabling secure 2-way EPR communication  
 - Delivered the modular UI architecture powering **blood.club**  
 - Automated operational workflows (PowerShell + GitOps)  
 - Improved performance + stability across digital systems  
-- SME for workflow, integrations, automation patterns  
+- SME for integrations, workflow automation, and architecture  
 
 ---
 
-# **Tools, Languages & Tech**
+# **Tech Stack**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,cloudflare,idea,vscode,html,css,js,ts,nodejs,py,java,php,mysql" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,cloudflare,vscode,html,css,js,ts,nodejs,py,java,php,mysql" />
 </p>
 
 ---
@@ -70,51 +76,56 @@ I build modular, scalable digital ecosystems — from healthcare infrastructure 
 <a href="https://github.com/dxiv/devlab-scripts">
 <img src="https://img.shields.io/badge/devlab--scripts-%231E1E2E?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0f16" />
 </a>
-<br/><sub>Automation & tooling for systems analysis</sub>
+<br/><sub>Automation & workflow engineering scripts</sub>
 </td>
 </tr>
 </table>
 
 ---
 
-# **Engineering Principles**
+# **Highest Starred Repo**
 
-- Structure > noise  
-- Automate the repeatable  
-- Design for longevity  
-- Reliability as foundation  
-- Security + clarity first  
+<div align="center">
+  <a href="https://github.com/dxiv/bloodclub-ui">
+    <img src="https://img.shields.io/github/stars/dxiv/bloodclub-ui?color=ff0000&style=for-the-badge&label=Top%20Repo%20Stars" />
+  </a>
+</div>
 
 ---
 
-# **Now Building**
+# **Engineering Principles**
 
-- Expanding Blood Club’s modular UI + backend  
-- Strengthening infrastructure automation  
-- Performance optimisation + security improvements  
-- Architecture frameworks for long-term systems  
+- Structure > chaos  
+- Automate the repeatable  
+- Design for scale  
+- Reliability as a baseline  
+- Clarity over complexity  
+
+---
+
+# **A Tiny Section of Sarcasm**  
+
+> “If something can be automated, I’ll automate it.  
+> If it can’t be automated, I’ll stare at it until it becomes automatable.”
+
+Dry, sharp, efficient — just like it should be.
 
 ---
 
 # **Stats & Metrics**
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dxiv&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&rank_icon=github" />
   <img src="https://streak-stats.demolab.com?user=dxiv&theme=tokyonight&hide_border=true" />
-</p>
-
+</div>
 
 ---
 
-# 🔗 **Socials**
+# **Links**
 
 - **Website:** https://blood.club  
 - **Hub:** https://feds.lol/dx  
 - **Discord:** `.dxm`
-
-<p align="left">
-  <img src="https://img.shields.io/github/last-commit/dxiv/dxiv?label=Last%20Updated&color=red" />
-</p>
 
 <p align="center" style="margin-top:-10px; margin-bottom:-10px;">
   <img src="assets/divider.svg" width="55%">
