@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/dx-7/dx-7/main/assets/dx-banner.png"
        width="1000px"
-       height="200px"
+       height="400px"
        style="object-fit:cover; object-position:center;">
 </p>
 
