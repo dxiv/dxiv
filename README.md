@@ -9,8 +9,8 @@ Focused on automation, architecture, and building dark, elegant digital ecosyste
 
 ---
 
-<p align="center">  
-  <img src="https://raw.githubusercontent.com/dx-7/dx-7/main/assets/divider.svg" width="65%" />  
+<p align="center" style="margin-top:-12px;margin-bottom:-6px;">
+  <img src="assets/divider.svg" width="65%">
 </p>
 
 ## 🩸 About Me
