@@ -45,7 +45,7 @@ My work blends clean technical structure with a darker design identity — high-
 
 ## ⚙️ Tools & Tech
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,cloudflare,idea,vscode,java,js,ts,html,css,nodejs,php,py,mysql" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,cloudflare,idea,vscode,html,css,js,ts,nodejs,py,java,php,mysql" />
 </p>
 
 ---
