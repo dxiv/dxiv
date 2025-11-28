@@ -15,17 +15,18 @@
 
 # **About Me**
 
-Systems Analyst/Architect who builds scalable digital systems for healthcare and web platforms — and somehow keeps them elegant instead of chaotic.  
-Founder of **blood.club**, where the architecture is clean, but the aesthetic is unapologetically dark.
+Systems Analyst/Architect building scalable digital ecosystems for healthcare and the web — keeping things clean, fast, and suspiciously well-organised.  
+Founder of **blood.club**, where the architecture is clean even if the aesthetic isn’t.
 
 I focus on:
 
-- Designing infrastructure that won’t collapse when someone sneezes  
-- Automating everything humans forget to do  
-- Keeping systems fast, secure, and *not embarrassing*  
-- Building modular ecosystems instead of spaghetti disguised as code  
+- Infrastructure that doesn’t collapse under pressure  
+- Automation (because humans forget things, cron doesn’t)  
+- Secure, reliable workflows  
+- Modular design over madness  
+- Long-term maintainability (future-me appreciates this)  
 
-Basically: structure, automation, clarity — with a personality.
+Basically: structured engineering with personality.
 
 ---
 
@@ -35,20 +36,20 @@ Basically: structure, automation, clarity — with a personality.
 - Multi-system clinical integrations  
 - Modular digital ecosystem design  
 - Automated deployments + CI/CD  
-- Performance-driven refactoring  
-- Full-stack delivery end-to-end  
+- Performance-focused refactoring  
+- End-to-end delivery across stack layers  
 
-Yes, I actually enjoy this. No, I don’t know why either.
+Yes, I enjoy this. No, I don’t fully understand it either.
 
 ---
 
 # **Highlighted Work**
 
 - Architected a **multi-trust clinical referral workflow** with secure 2-way EPR communication  
-- Designed the modular UI architecture for **blood.club**  
+- Designed the modular UI architecture powering **blood.club**  
 - Automated operational workflows using PowerShell + GitOps  
-- Improved stability and performance across healthcare systems  
-- SME for workflows, integrations, and automation patterns  
+- Improved performance & reliability across healthcare systems  
+- SME for workflow design, integration points, and automation patterns  
 
 If it’s complex, I probably ended up owning it.
 
@@ -87,10 +88,10 @@ If it’s complex, I probably ended up owning it.
 # **Engineering Principles**
 
 - Structure > chaos  
-- Automate the repeatable (humans lie, cron doesn’t)  
-- Design for longevity, not emergencies  
-- Reliability first, everything else later  
-- Secure by default, fast by expectation  
+- Automate the repeatable  
+- Design for longevity  
+- Reliability as a foundation  
+- Security + clarity first  
 
 Simple rules. Scary effective.
 
@@ -99,23 +100,44 @@ Simple rules. Scary effective.
 # **Now Building**
 
 - Expanding Blood Club’s modular UI + backend  
-- Strengthening automation + infra tooling  
-- Performance tuning + security hardening  
-- Long-term architectural frameworks  
-
-Basically, more systems. Cleaner systems. Less noise.
+- Infrastructure automation & workflow tooling  
+- Performance tuning + security improvements  
+- Long-term architecture patterns  
 
 ---
 
 # **Stats & Metrics**
 
 <p align="center">
+
+  <!-- Main Stats (Your Vercel Instance) -->
   <img
     src="https://dxiv.vercel.app/api?username=dxiv&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800"
+    height="165"
   />
+
+  <!-- Streak Stats -->
   <img
     src="https://streak-stats.demolab.com?user=dxiv&theme=tokyonight&hide_border=true"
+    height="165"
   />
+
+</p>
+
+<p align="center">
+
+  <!-- Top Languages -->
+  <img
+    src="https://dxiv.vercel.app/api/top-langs/?username=dxiv&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+    height="165"
+  />
+
+  <!-- Achievements (clean & useful) -->
+  <img
+    src="https://dxiv.vercel.app/api?username=dxiv&show=prs_merged,issues,reviews&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="165"
+  />
+
 </p>
 
 ---
