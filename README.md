@@ -15,43 +15,35 @@
 
 # **About Me**
 
-Systems Analyst/Architect building scalable digital ecosystems for healthcare and the web — keeping things clean, fast, and suspiciously well-organised.  
-Founder of **blood.club**, where the architecture is clean even if the aesthetic isn’t.
+Systems Analyst with 10+ years in healthcare IT, specialising in workflow automation, systems integration, and technical problem-solving.  
+SME for multiple enterprise clinical systems with hands-on experience across servers, infrastructure, and digital pathways.
 
-I focus on:
+I build clean, reliable solutions using PowerShell, SFTP, and structured automation — removing manual overhead and making complex systems behave. Founder of **blood.club**, where I apply the same engineering discipline to modern full-stack development.
 
-- Infrastructure that doesn’t collapse under pressure  
-- Automation (because humans forget things, cron doesn’t)  
-- Secure, reliable workflows  
-- Modular design over madness  
-- Long-term maintainability (future-me appreciates this)  
+Professional memberships: **MBCS**, **Advanced RITTech**, **FEDIP Senior Practitioner**.
 
-Basically: structured engineering with personality.
+Outside of work, I spend my time gaming, learning full-stack development, and building anything I can automate.
 
 ---
 
 # **Architecture & Systems Engineering**
 
-- Scalable, fault-tolerant workflows  
-- Multi-system clinical integrations  
-- Modular digital ecosystem design  
-- Automated deployments + CI/CD  
-- Performance-focused refactoring  
-- End-to-end delivery across stack layers  
-
-Yes, I enjoy this. No, I don’t fully understand it either.
+- Workflow automation using PowerShell, SFTP, and CI-based tooling  
+- Designing scalable digital pathways across multi-system healthcare environments  
+- Supporting and optimising server & infrastructure components  
+- Integrating clinical systems with secure, fault-tolerant workflows  
+- Modular architecture design for maintainability and clarity  
+- Performance tuning, reliability improvements, and reduction of technical debt  
 
 ---
 
 # **Highlighted Work**
 
-- Architected a **multi-trust clinical referral workflow** with secure 2-way EPR communication  
-- Designed the modular UI architecture powering **blood.club**  
-- Automated operational workflows using PowerShell + GitOps  
-- Improved performance & reliability across healthcare systems  
-- SME for workflow design, integration points, and automation patterns  
-
-If it’s complex, I probably ended up owning it.
+- Architected a **multi-trust clinical referral workflow** enabling secure 2-way communication with the EPR  
+- Acted as SME for enterprise healthcare systems, advising on performance, stability, and integration patterns  
+- Automated high-volume operational workflows across infrastructure and clinical applications  
+- Designed the modular UI & digital foundation powering **blood.club**  
+- Improved system reliability, resiliency, and operational efficiency across server and workflow layers  
 
 ---
 
@@ -87,22 +79,20 @@ If it’s complex, I probably ended up owning it.
 
 # **Engineering Principles**
 
-- Structure > chaos  
-- Automate the repeatable  
-- Design for longevity  
-- Reliability as a foundation  
-- Security + clarity first  
-
-Simple rules. Scary effective.
+- Structure over chaos  
+- Automate whatever shouldn’t be manual  
+- Build for future maintainability  
+- Reliability as a baseline, not a bonus  
+- Security + clarity > clever shortcuts  
 
 ---
 
 # **Now Building**
 
-- Expanding Blood Club’s modular UI + backend  
-- Infrastructure automation & workflow tooling  
-- Performance tuning + security improvements  
-- Long-term architecture patterns  
+- Expanding Blood Club’s modular UI & backend  
+- Developing workflow automation tools for healthcare and infra  
+- Improving performance, resilience & security across systems  
+- Strengthening full-stack foundations and modern dev practices  
 
 ---
 
