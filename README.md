@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <img src="https://raw.githubusercontent.com/dx-7/dx-7/main/assets/dx-banner.png"
-         style="height:150px; object-fit:cover; width:100%;" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/dx-7/dx-7/main/assets/dx-banner.png" width="800px" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?duration=9000&pause=2500&color=ff0000&center=false&vCenter=false&width=820&lines=DX+—+Systems+Analyst%2FArchitect;Founder+%26+Lead+Dev+—+blood.club;Cybersecurity+%7C+Automation+%7C+Architecture;Building+dark%2C+elegant+digital+systems)](https://git.io/typing-svg)
