@@ -37,7 +37,7 @@ Crafting dark, elegant, high-performance digital ecosystems.
 
 ## 🧩 Architecture & Systems Work
 - Architecting clinical workflows using OnBase Workflow & WorkView  
-- Integrating multi-system healthcare environments (EMIS, ICCA, OnBase)  
+- Integrating multi-system healthcare environments  
 - Designing scalable infrastructure + automated deployment patterns  
 - Building modular digital ecosystems with maintainable structure  
 - Reducing technical debt through targeted refactoring + automation  
