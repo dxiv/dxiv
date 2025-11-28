@@ -6,7 +6,7 @@
 ![Blood Club](https://img.shields.io/badge/Blood_Club-Founder-black?style=for-the-badge)
 
 </div>
-d
+
 <p align="center" style="margin-top:-10px; margin-bottom:-10px;">
   <img src="assets/divider.svg" width="55%">
 </p>
