@@ -4,8 +4,10 @@
 
 <div>
     <!-- Profile Views (Komarev) + GitHub Logo Badge -->
-    <a href="https://komarev.com/ghpvc/?username=dxiv&color=580000&style=for-the-badge" alt="GitHub" title="Profile Views"/>
-        <img src="https://img.shields.io/badge/GitHub-Profile-580000?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
+<a href="https://github.com/dxiv">
+    <img src="https://img.shields.io/badge/Profile%20Views-580000?style=for-the-badge&logo=github&logoColor=black&labelColor=333333" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=dxiv&color=580000&style=for-the-badge&label=" />
     <!-- Discord Badge -->
     <a href="https://discord.gg/5syVYKBwU8" alt="Discord" title="Blood Club Server">
         <img src="https://img.shields.io/discord/1385972996560257034?color=580000&logo=discord&logoColor=black&style=for-the-badge&v=2"/>
