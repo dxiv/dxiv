@@ -18,7 +18,7 @@
   <img src="assets/divider.svg" width="55%">
 </p>
 </div>
-</div>
+
 ---
 
 # **About Me**
