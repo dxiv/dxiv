@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dxiv&color=580000&style=for-the-badge)
 <a href="https://discord.gg/5syVYKBwU8" alt="Discord" title="Blood Club Server">
-    <img src="https://img.shields.io/discord/1385972996560257034?color=580000&logo=discord&logoColor=black&style=for-the-badge"/></a>
+    <img src="https://img.shields.io/discord/1385972996560257034?color=580000&logo=discord&logoColor=black&style=for-the-badge&cacheBust=1"/></a>
 </div>
 
 <p align="center" style="margin-top:-10px; margin-bottom:-10px;">
