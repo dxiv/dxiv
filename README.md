@@ -6,7 +6,7 @@
     <!-- Profile Views (Komarev) + GitHub Logo Badge -->
 <a href="https://github.com/dxiv">
   <img src="https://img.shields.io/badge/PROFILE%20VIEWS-2F2F2F?style=for-the-badge&logo=github&logoColor=black&labelColor=2F2F2F" />
-  <img src="https://img.shields.io/badge/1,718-580000?style=for-the-badge&labelColor=2F2F2F" />
+  <img src="https://img.shields.io/badge/10,718-580000?style=for-the-badge&labelColor=2F2F2F" />
 </a>
     <!-- Discord Badge -->
     <a href="https://discord.gg/5syVYKBwU8" alt="Discord" title="Blood Club Server">
