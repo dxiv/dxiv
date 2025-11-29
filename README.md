@@ -10,8 +10,8 @@
 </a>
     <!-- Discord Badge -->
     <a href="https://discord.gg/5syVYKBwU8" alt="Discord" title="Blood Club Server">
-        <img src="https://img.shields.io/badge/CHAT-4a4a4a?style=for-the-badge&logo=discord&logoColor=black&labelColor=4a4a4a" />
-        <img src="https://img.shields.io/badge/78%20ONLINE-580000?style=for-the-badge&labelColor=4a4a4a" />
+        <img src="https://img.shields.io/badge/CHAT-4a4a4a?style=for-the-badge&logo=discord&logoColor=black&labelColor=2F2F2F" />
+        <img src="https://img.shields.io/badge/78%20ONLINE-580000?style=for-the-badge&labelColor=2F2F2F" />
     </a>
 </div>
 
