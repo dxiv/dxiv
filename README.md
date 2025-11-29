@@ -2,10 +2,16 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=dxiv&color=580000&style=for-the-badge)
-<a href="https://discord.gg/5syVYKBwU8" alt="Discord" title="Blood Club Server">
-    <img src="https://img.shields.io/discord/1385972996560257034?color=580000&logo=discord&logoColor=black&style=for-the-badge&v=2"/></a>
+<div>
+    <!-- Profile Views (Komarev) + GitHub Logo Badge -->
+    <img src="https://komarev.com/ghpvc/?username=dxiv&color=580000&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-580000?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
+    <!-- Discord Badge -->
+    <a href="https://discord.gg/5syVYKBwU8" alt="Discord" title="Blood Club Server">
+        <img src="https://img.shields.io/discord/1385972996560257034?color=580000&logo=discord&logoColor=black&style=for-the-badge&v=2"/>
+    </a>
 </div>
+
 
 <p align="center" style="margin-top:-10px; margin-bottom:-10px;">
   <img src="assets/divider.svg" width="55%">
