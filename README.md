@@ -3,7 +3,6 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dxiv&color=red&style=for-the-badge)
-![Blood Club](https://img.shields.io/badge/Blood_Club-Founder-black?style=for-the-badge)
 <a href="https://discord.gg/5syVYKBwU8" alt="Discord" title="Blood Club Server">
     <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
 </div>
