@@ -21,33 +21,33 @@
 ---
 
 # **About Me**
-
+<p align="left">
 Systems Analyst with 10+ years in healthcare IT, specialising in automation, clinical integrations, and technical problem-solving.  
 Experienced with HL7/XML interfaces, server operations, and high-reliability digital workflows.  
 Founder & Lead Dev of **blood.club**, applying structured engineering to modern full-stack builds.
 
 Professional memberships: **MBCS**, **Advanced RITTech**, **FEDIP Senior Practitioner**, **CITP (in progress)**.
-
+</p>
 ---
 
 # **Core Skills**
-
+<p align="left">
 - Workflow automation (PowerShell, SFTP, CI/CD)  
 - HL7/XML interface monitoring & resolution  
 - Multi-system clinical integrations  
 - Server & infrastructure operations  
 - Modular architecture & long-term maintainability  
 - Performance, reliability & security improvements  
-
+</p>
 ---
 
 # **Highlighted Work**
-
+<p align="left">
 - Architected a **multi-trust referral workflow** with secure 2-way EPR communication  
 - SME for key clinical systems & infrastructure components  
 - Automated high-volume operational processes across healthcare environments  
 - Designed the modular UI & digital ecosystem behind **blood.club**  
-
+</p>
 ---
 
 # **Tools & Tech**
