@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=dxiv&color=red&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=dxiv&color=580000&style=for-the-badge)
 <a href="https://discord.gg/5syVYKBwU8" alt="Discord" title="Blood Club Server">
     <img src="https://img.shields.io/discord/819650821314052106?color=580000&logo=discord&logoColor=black&style=for-the-badge"/></a>
 </div>
