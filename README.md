@@ -4,7 +4,7 @@
 <div>
     <!-- Profile Views (Komarev) + GitHub Logo Badge -->
 <a href="https://github.com/dxiv">
-<img src="https://komarev.com/ghpvc/?username=dxiv&color=580000&logo=GitHub&logoColor=black&plastic&label=PROFILE+VIEWS&base=100000" />
+<img src="https://komarev.com/ghpvc/?username=dxiv&color=580000&logo=GitHub&logoColor=black&plastic&label=profile+views&base=100000" />
 </a>
     <!-- Discord Badge -->
     <a href="https://discord.gg/5syVYKBwU8" alt="Discord" title="Blood Club Server">
