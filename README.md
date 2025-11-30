@@ -9,7 +9,7 @@
     <!-- Discord Badge -->
     <a href="https://discord.gg/5syVYKBwU8" alt="Discord" title="Blood Club Server">
         <img src="https://img.shields.io/badge/CHAT-4a4a4a?style=for-the-badge&logo=discord&logoColor=black&labelColor=2F2F2F" />
-        <img src="https://img.shields.io/badge/78%20ONLINE-580000?style=for-the-badge&labelColor=2F2F2F" />
+        <img src="https://img.shields.io/discord/1385972996560257034?color=580000&logo=discord&logoColor=black&style=for-the-badge" />
     </a>
 </div>
 
