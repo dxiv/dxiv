@@ -106,6 +106,9 @@ Professional memberships: **MBCS**, **Advanced RITTech**, **FEDIP Senior Practit
 
 <p align="center" style="margin-top:-10px; margin-bottom:-10px;">
   <img src="assets/divider.svg" width="55%">
+</p>
+
+<div align="center">
     
 ![snake gif](https://github.com/dxiv/dxiv/blob/output/github-snake-dark.svg)
-</p>
+</div>
