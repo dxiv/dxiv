@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?duration=9000&pause=2500&color=ff0000&center=false&vCenter=false&width=820&lines=DX+—+Systems+Analyst%2FArchitect;Founder+%26+Lead+Dev+—+blood.club;Automation+%7C+Architecture+%7C+Healthcare+IT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?duration=9000&pause=2500&color=580000&center=false&vCenter=false&width=820&lines=DX+—+Systems+Analyst%2FArchitect;Founder+%26+Lead+Dev+—+blood.club;Automation+%7C+Architecture+%7C+Healthcare+IT)](https://git.io/typing-svg)
 
 <div align="center">
 <div>
