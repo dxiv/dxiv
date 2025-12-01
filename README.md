@@ -69,6 +69,13 @@ Professional memberships: **MBCS**, **Advanced RITTech**, **FEDIP Senior Practit
 </td>
 
 <td align="center">
+<a href="https://github.com/dxiv/dxa-dev">
+<img src="https://img.shields.io/badge/dxa--dev-%231E1E2E?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0f16" />
+</a>
+<br/><sub>One language for intelligent & trustless compute.</sub>
+</td>
+
+<td align="center">
 <a href="https://github.com/dxiv/devlab-scripts">
 <img src="https://img.shields.io/badge/devlab--scripts-%231E1E2E?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0f16" />
 </a>
