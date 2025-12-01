@@ -72,7 +72,7 @@ Professional memberships: **MBCS**, **Advanced RITTech**, **FEDIP Senior Practit
 <a href="https://github.com/dxiv/dxa-dev">
 <img src="https://img.shields.io/badge/dxa--dev-%231E1E2E?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0f16" />
 </a>
-<br/><sub>Language model to compile GPU kernels, native binaries, and blockchain bytecode without Python’s overhead or Solidity’s security traps.</sub>
+<br/><sub>A language for fast GPU code and safe smart contracts. No Python overhead. No Solidity mistakes.</sub>
 </td>
 
 <td align="center">
