@@ -72,7 +72,7 @@ Professional memberships: **MBCS**, **Advanced RITTech**, **FEDIP Senior Practit
 <a href="https://github.com/dxiv/dxa-dev">
 <img src="https://img.shields.io/badge/dxa--dev-%231E1E2E?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0f16" />
 </a>
-<br/><sub>One language for intelligent & trustless compute.</sub>
+<br/><sub>DEXA is a statically typed, deterministic language that compiles to GPU kernels, native binaries, and blockchain bytecode — without Python’s runtime overhead or Solidity’s security traps.</sub>
 </td>
 
 <td align="center">
