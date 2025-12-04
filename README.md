@@ -52,7 +52,7 @@ Professional memberships: **MBCS**, **Advanced RITTech**, **FEDIP Senior Practit
 # **Tools & Tech**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,cloudflare,idea,vscode,html,css,js,ts,nodejs,py,java,php,mysql,rust" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,cloudflare,idea,vscode,html,css,js,ts,nodejs,py,java,mysql,rust" />
 </p>
 
 ---
