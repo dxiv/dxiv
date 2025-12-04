@@ -23,8 +23,7 @@
 
 Systems Analyst with 10+ years in healthcare IT, specialising in automation, clinical integrations, and technical problem-solving.  
 Experienced with HL7/XML interfaces, server operations, and high-reliability digital workflows.  
-Founder & Lead Dev of **blood.club**, applying structured engineering to modern full-stack builds.
-Founder & Lead Language designer of DEXA, allowing GPU Kernals & AI boosted power through compute.
+Founder & Lead Language designer of **DEXA**, GPU kernals & AI power through compute, applying structured engineering to modern full-stack builds.
 
 Professional memberships: **MBCS**, **Advanced RITTech**, **FEDIP Senior Practitioner**, **CITP (in progress)**.
 
