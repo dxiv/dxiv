@@ -103,7 +103,7 @@ Professional memberships: **MBCS**, **Advanced RITTech**, **FEDIP Senior Practit
 
 # 🔗 **Socials**
 
-- **Website:** https://blood.club  
+- **Website:** https://dxa.dev  
 - **Hub:** https://feds.lol/dx  
 - **Discord:** `.dxm`
 
