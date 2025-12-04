@@ -23,7 +23,7 @@
 
 Systems Analyst with 10+ years in healthcare IT, specialising in automation, clinical integrations, and technical problem-solving.  
 Experienced with HL7/XML interfaces, server operations, and high-reliability digital workflows.  
-Founder & Lead Language designer of **DEXA**, GPU kernals & AI power through compute, applying structured engineering to full-stack builds.
+Founder & Language designer of **DEXA**, GPU kernals & AI power through compute, applying structured engineering to full-stack builds.
 
 Professional memberships: **MBCS**, **Advanced RITTech**, **FEDIP Senior Practitioner**, **CITP (in progress)**.
 
