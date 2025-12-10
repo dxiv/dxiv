@@ -94,7 +94,7 @@ Professional memberships: **MBCS**.
     height="165"
   >
   <img
-    src="https://streak-stats.demolab.com?user=dxiv&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    src="https://streak-stats.demolab.com?user=dxiv&theme=tokyonight&hide_border=true"
     height="165"
   />
 </p>
