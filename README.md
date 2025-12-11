@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?duration=9000&pause=2500&color=580000&center=false&vCenter=false&width=820&lines=DX+—+Systems+Analyst;Founder+%26+Language+Designer+—+dxa.dev;Automation+%7C+Architecture+%7C+Healthcare+IT)](https://git.io/typing-svg)
 
 <div align="center">
-<div
+<div>
     <!-- Profile Views (Komarev) + GitHub Logo Badge -->
 <a href="https://github.com/dxiv">
 <img src="https://komarev.com/ghpvc/?username=dxiv&color=580000&logo=GitHub&logoColor=black&plastic&label=profile+views&base=100000" />
