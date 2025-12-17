@@ -3,11 +3,11 @@
 <div align="center">
 <div>
     <!-- Profile Views (Komarev) + GitHub Logo Badge -->
-<a href="https://github.com/dxiv">
+<a href="https://github.com/dxiv" alt="GitHub" title="GitHub Profile">
 <img src="https://komarev.com/ghpvc/?username=dxiv&color=580000&logo=GitHub&logoColor=black&plastic&label=profile+views" />
 </a>
     <!-- Discord Badge -->
-    <a href="https://discord.gg/5syVYKBwU8" alt="Discord" title="Blood Club Server">
+    <a href="https://gg.blood.club" alt="Discord" title="Blood Club Server">
         <img src="https://img.shields.io/discord/1385972996560257034?color=580000&logo=discord&logoColor=black&plastic" />
     </a>
 </div>
