@@ -45,7 +45,7 @@ Professional memberships: **MBCS**.
 - Architected a **multi-trust referral workflow** with secure 2-way EPR communication  
 - SME for key clinical systems & infrastructure components  
 - Automated high-volume operational processes across healthcare environments  
-- Designed the modular UI & digital ecosystem behind **blood.club**  
+- Designed the modular UI & digital ecosystem behind **blood.club** & **dxa.dev**
 
 ---
 
