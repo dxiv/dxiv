@@ -11,6 +11,7 @@
         <img src="https://img.shields.io/discord/1385972996560257034?color=580000&logo=discord&logoColor=black&plastic" />
     </a>
 </div>
+    
 <p align="center" style="margin-top:-10px; margin-bottom:-10px;">
   <img src="assets/divider.svg" width="55%">
 </p>
