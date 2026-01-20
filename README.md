@@ -25,7 +25,7 @@ Systems Analyst with nearly a decade in healthcare IT, specialising in automatio
 Experienced with HL7/XML interfaces, server operations, and high-reliability digital workflows.  
 Founder & Language designer of **DEXA**, GPU kernals & AI power through compute, applying structured engineering to full-stack builds.
 
-Professional memberships: **MBCS**.
+Professional memberships: **MBCS**, **Senior FEDIP Practitioner** & **AdvRITTech**.
 
 ---
 
