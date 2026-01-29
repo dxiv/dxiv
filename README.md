@@ -88,15 +88,11 @@ Professional memberships: **MBCS**, **AdvRITTech** & **Senior FEDIP Practitioner
 
 # **Stats & Metrics**
 
-<p align="center">
-  <img
-    src="[(https://stats.techy.lol/api?username=dxiv&count_private=true&show_icons=true&theme=dark&cache_seconds=7200&hide_title=true&include_all_commits=true&card_width=300)](https://github.com/dxiv"><img src="https://stats.techy.lol/api?username=dxiv&count_private=true&show_icons=true&theme=dark&cache_seconds=7200&hide_title=true&include_all_commits=true&card_width=300)"
-    height="165"
-  >
-  <img
-    src="[https://streak-stats.demolab.com?user=dxiv&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=dxiv&theme=dark)"
-    height="165"
-  />
+<p align=center>
+  <a href="https://github.com/dxiv"><img src="https://stats.techy.lol/api?username=dxiv&count_private=true&show_icons=true&theme=dark&cache_seconds=7200&hide_title=true&include_all_commits=true&card_width=300" /></a>
+  <a href="https://github.com/dxiv"><img src="https://stats.techy.lol/api/top-langs/?username=dxiv&layout=compact&card_width=306&theme=dark&hide_title=false&langs_count=6&exclude_repo=panel" /></a>
+  <br>
+  <a href="https://github.com/dxiv"><img src="https://github-readme-streak-stats.herokuapp.com?user=dxiv&theme=dark"></a>
 </p>
 
 ---
