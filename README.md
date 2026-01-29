@@ -90,11 +90,11 @@ Professional memberships: **MBCS**, **AdvRITTech** & **Senior FEDIP Practitioner
 
 <p align="center">
   <img
-    src="https://dxiv.vercel.app/api?username=dxiv&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800"
+    src="[(https://stats.techy.lol/api?username=dxiv&count_private=true&show_icons=true&theme=dark&cache_seconds=7200&hide_title=true&include_all_commits=true&card_width=300)](https://github.com/dxiv"><img src="https://stats.techy.lol/api?username=dxiv&count_private=true&show_icons=true&theme=dark&cache_seconds=7200&hide_title=true&include_all_commits=true&card_width=300)"
     height="165"
   >
   <img
-    src="https://streak-stats.demolab.com?user=dxiv&theme=tokyonight&hide_border=true"
+    src="[https://streak-stats.demolab.com?user=dxiv&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=dxiv&theme=dark)"
     height="165"
   />
 </p>
