@@ -94,7 +94,6 @@ Professional memberships: **MBCS**, **AdvRITTech** & **Senior FEDIP Practitioner
 # 🔗 **Socials**
 
 - **Website:** https://dxa.dev  
-- **Hub:** https://feds.lol/dx  
 - **Discord:** `.dxm`
 
 <p align="left">
