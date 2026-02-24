@@ -6,10 +6,6 @@
 <a href="https://github.com/dxiv" alt="GitHub" title="GitHub Profile">
 <img src="https://komarev.com/ghpvc/?username=dxiv&color=580000&logo=GitHub&logoColor=black&plastic&label=profile+views" />
 </a>
-    <!-- Discord Badge -->
-    <a href="https://gg.blood.club" alt="Discord" title="Blood Club Server">
-        <img src="https://img.shields.io/discord/1385972996560257034?color=580000&logo=discord&logoColor=black&plastic" />
-    </a>
 </div>
     
 <p align="center" style="margin-top:-10px; margin-bottom:-10px;">
