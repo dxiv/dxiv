@@ -11,7 +11,7 @@
 <p align="center" style="margin-top:-10px; margin-bottom:-10px;">
   <img src="assets/divider.svg" width="55%">
 </p>
-</div>
+</div
 
 ---
 
