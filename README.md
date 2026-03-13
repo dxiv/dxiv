@@ -68,14 +68,14 @@ Professional memberships: **MBCS**, **AdvancedRITTech** & **Senior FEDIP Practit
 <a href="https://github.com/dxiv/dxa-dev">
 <img src="https://img.shields.io/badge/dxa--dev-%231E1E2E?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0f16" />
 </a>
-<br/><sub>Website, compiler & WASM. Main repo (private until 1.0.0).</sub>
+<br/><sub>Website, compiler & WASM (private until 1.0.0).</sub>
 </td>
 
 <td align="center">
 <a href="https://github.com/dxiv/dxa-wasm">
 <img src="https://img.shields.io/badge/dxa--wasm-%231E1E2E?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0f16" />
 </a>
-<br/><sub>Compiler to WebAssembly for the browser.</sub>
+<br/><sub>Compiler to WebAssembly for browser use.</sub>
 </td>
 </tr>
 </table>
