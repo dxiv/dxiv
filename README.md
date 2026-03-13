@@ -58,24 +58,24 @@ Professional memberships: **MBCS**, **AdvancedRITTech** & **Senior FEDIP Practit
 <table align="center">
 <tr>
 <td align="center">
-<a href="https://github.com/dxiv/bloodclub-ui">
-<img src="https://img.shields.io/badge/bloodclub--ui-%231E1E2E?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0f16" />
+<a href="https://github.com/dxiv/dxa-compiler">
+<img src="https://img.shields.io/badge/dxa--compiler-%231E1E2E?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0f16" />
 </a>
-<br/><sub>Modular UI architecture for blood.club</sub>
+<br/><sub>Reference compiler (Rust).</sub>
 </td>
 
 <td align="center">
 <a href="https://github.com/dxiv/dxa-dev">
 <img src="https://img.shields.io/badge/dxa--dev-%231E1E2E?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0f16" />
 </a>
-<br/><sub>GPU speed and contract safety — without Python or Solidity baggage.</sub>
+<br/><sub>Website, compiler & WASM. Main repo (private until 1.0.0).</sub>
 </td>
 
 <td align="center">
-<a href="https://github.com/dxiv/devlab-scripts">
-<img src="https://img.shields.io/badge/devlab--scripts-%231E1E2E?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0f16" />
+<a href="https://github.com/dxiv/dxa-wasm">
+<img src="https://img.shields.io/badge/dxa--wasm-%231E1E2E?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0f16" />
 </a>
-<br/><sub>Automation & tooling for systems analysis</sub>
+<br/><sub>Compiler to WebAssembly for the browser.</sub>
 </td>
 </tr>
 </table>
