@@ -80,6 +80,10 @@ Professional memberships: **MBCS**, **AdvancedRITTech** & **Senior FEDIP Practit
 </tr>
 </table>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/211dae3a-617b-4936-919b-7330b244c69a" alt="Deimos" width="28%">
+</p>
+
 ---
 
 # **Stats & Metrics**
