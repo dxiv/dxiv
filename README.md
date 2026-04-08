@@ -75,7 +75,7 @@ Professional memberships: **MBCS**, **AdvancedRITTech** & **Senior FEDIP Practit
 <a href="https://github.com/dxiv/dxa-wasm">
 <img src="https://img.shields.io/badge/dxa--wasm-%231E1E2E?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0f16" />
 </a>
-<br/><sub>Compiler to WebAssembly for browser use.</sub>
+<br/><sub>Compiler to WebAssembly.</sub>
 </td>
 </tr>
 </table>
