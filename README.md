@@ -65,10 +65,10 @@ Professional memberships: **MBCS**, **AdvancedRITTech** & **Senior FEDIP Practit
 </td>
 
 <td align="center">
-<a href="https://github.com/dxiv/dxa-dev">
-<img src="https://img.shields.io/badge/dxa--dev-%231E1E2E?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0f16" />
+<a href="https://github.com/dxiv/dxa-deimos">
+<img src="https://img.shields.io/badge/dxa--deimos-%231E1E2E?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0f16" />
 </a>
-<br/><sub>Website, compiler & WASM (private until 1.0.0).</sub>
+<br/><sub>Terminal AI coding agent for local or cloud models.</sub>
 </td>
 
 <td align="center">
