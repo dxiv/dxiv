@@ -88,9 +88,13 @@ Professional memberships: **MBCS**, **AdvancedRITTech** & **Senior FEDIP Practit
 
 # **Stats & Metrics**
 
-<p align=center>
-  <a href="https://github.com/dxiv"><img src="https://stats.techy.lol/api?username=dxiv&count_private=true&show_icons=true&theme=dark&cache_seconds=7200&hide_title=false&include_all_commits=true&card_width=300" width="32.5% /></a>
-  <a href="https://github.com/dxiv"><img src="https://github-readme-streak-stats.herokuapp.com?user=dxiv&theme=dark" width="45%></a>
+<p align="center">
+  <a href="https://github.com/dxiv">
+    <img src="https://stats.techy.lol/api?username=dxiv&count_private=true&show_icons=true&theme=dark&cache_seconds=7200&hide_title=false&include_all_commits=true&card_width=300" width="32.5%" />
+  </a>
+  <a href="https://github.com/dxiv">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=dxiv&theme=dark" width="45%" />
+  </a>
 </p>
 
 ---
@@ -104,11 +108,12 @@ Professional memberships: **MBCS**, **AdvancedRITTech** & **Senior FEDIP Practit
   <img src="https://img.shields.io/github/last-commit/dxiv/dxiv?label=Last%20Updated&color=red" />
 </p>
 
-<p align="center" style="margin-top:-10px; margin-bottom:-10px;">
-  <img src="assets/divider.svg" width="55%">
+---
+
+<p align="center">
+  <img src="assets/divider.svg" width="55%" />
 </p>
 
 <div align="center">
-    
-![snake gif](https://github.com/dxiv/dxiv/blob/output/github-snake-dark.svg)
+  <img src="https://github.com/dxiv/dxiv/blob/output/github-snake-dark.svg" />
 </div>
