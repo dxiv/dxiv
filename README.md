@@ -89,8 +89,8 @@ Professional memberships: **MBCS**, **AdvancedRITTech** & **Senior FEDIP Practit
 # **Stats & Metrics**
 
 <p align=center>
-  <a href="https://github.com/dxiv"><img src="https://stats.techy.lol/api?username=dxiv&count_private=true&show_icons=true&theme=dark&cache_seconds=7200&hide_title=false&include_all_commits=true&card_width=300" /></a>
-  <a href="https://github.com/dxiv"><img src="https://github-readme-streak-stats.herokuapp.com?user=dxiv&theme=dark"></a>
+  <a href="https://github.com/dxiv"><img src="https://stats.techy.lol/api?username=dxiv&count_private=true&show_icons=true&theme=dark&cache_seconds=7200&hide_title=false&include_all_commits=true&card_width=300" width="32.5% /></a>
+  <a href="https://github.com/dxiv"><img src="https://github-readme-streak-stats.herokuapp.com?user=dxiv&theme=dark" width="45%></a>
 </p>
 
 ---
